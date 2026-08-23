@@ -905,6 +905,11 @@ Vysoká škola **může** (nikoli musí) stanovit poplatek za úkony spojené s 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2386/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C426F8111CE61F0C1257A9900268FB3?openDocument) — 25. 9. 2012, kat. A
+  > „Rozhodnutí vysoké školy o vyměření poplatku spojeného se studiem, respektive za delší dobu studia, vydané podle § 58 odst. 3 zákona č. 111/1998 Sb. ve znění pozdějších předpisů, podléhá přezkumu ve správním soudnictví a je exekučním titulem ve smyslu § 40 odst. 1 písm. e) exekučního řádu a § 274 odst. 1 písm. f) o. s. ř"
+
 #### Poplatek za úkony spojené s přijímacím řízením (odst. 1)
 
 Veřejná vysoká škola **může** (fakultativně) stanovit poplatek za úkony spojené s přijímacím řízením, nejvýše ve výši 20 % základu podle odst. 2. Zákon zakotvuje fikci zpětvzetí přihlášky: nezaplatí-li uchazeč poplatek ve stanovené lhůtě, platí, že přihlášku vzal zpět — nejde tedy o klasickou platební povinnost vymahatelnou exekučně, ale o podmínku, jejíž nesplnění má za následek ukončení řízení bez nutnosti vydávat zvláštní rozhodnutí.

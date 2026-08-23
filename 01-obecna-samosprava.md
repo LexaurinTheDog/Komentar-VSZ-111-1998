@@ -301,6 +301,13 @@ Zřízení, sloučení, splynutí, rozdělení i zrušení veřejné vysoké šk
 
 Výčet v odst. 1 je demonstrativní („zejména"), takže samosprávná působnost může zahrnovat i další záležitosti, které nejsou zákonem výslovně vyhrazeny státním orgánům.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2301/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED07EF0A06E79041C125849F0018549F?openDocument) — 31. 7. 2019, kat. A
+  > „Za újmu způsobenou výkonem samosprávné působnosti veřejné vysoké školy odpovídá tato veřejná vysoká škola podle obecných předpisů, a nikoliv stát podle zákona č. 82/1998 Sb"
+- *NS* [20 Cdo 2386/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C426F8111CE61F0C1257A9900268FB3?openDocument) — 25. 9. 2012, kat. A
+  > „Rozhodnutí vysoké školy o vyměření poplatku spojeného se studiem, respektive za delší dobu studia, vydané podle § 58 odst. 3 zákona č. 111/1998 Sb. ve znění pozdějších předpisů, podléhá přezkumu ve správním soudnictví a je exekučním titulem ve smyslu § 40 odst. 1 písm. e) exekučního řádu a § 274 odst. 1 písm. f) o. s. ř"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ministerstvo školství vydá metodický pokyn, kterým veřejné vysoké škole ukládá konkrétní obsahovou náplň bakalářského studijního programu nad rámec akreditačních požadavků, s odůvodněním potřeby sjednocení praxe.
