@@ -21,7 +21,7 @@ Místní korpus pro tuto mapu tvoří **4 kapitol**, **180 samostatně nadepsan�
 Komentář se sám vymezuje jako **Komentar-VSZ-111-1998**.
 Normativní obsah je rozdělen do **4** místních kapitol; rejstřík je výchozím bodem pro určení rozhodného souboru a jeho systematiky.
 Místně zachycené údaje o znění, účinnosti nebo změnách:
-- [Komentář k zákonu č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách)](00-uvod.md): „Konsolidované znění k 1. lednu 2026 (dokument e-Sbírky SB-1998-001112026-01-01). Komentář je zpracován výhradně z lokálních materiálů; nevyužívá živé komerční právní databáze. Konkrétní spisové značky judikatury nejsou vymýšleny — v době…“
+- [Komentář k zákonu č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách)](00-uvod.md): „Konsolidované znění k 1. lednu 2026. Komentář je zpracován výhradně z lokálních materiálů; nevyužívá živé komerční právní databáze. Konkrétní spisové značky judikatury nejsou vymýšleny — v době vzniku tohoto úvodu složka judikatura/ v…“
 - [Co tento zákon je](00-uvod.md): „Zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (dále „zákon o vysokých školách" nebo „VSZ"), je základním kodexem českého vysokoškolského práva. Nahradil transformační zákon č. 172/1990 Sb. a jeho tzv.…“
 - [Poznámka k metodě](00-uvod.md): „Upozornění: Komentář slouží odbornému a vzdělávacímu účelu. Vychází z konsolidovaného znění k 1. 1. 2026; pozdější změny nemusí být zohledněny. Nejde o právní službu ani závazné právní stanovisko.“
 Samostatně označené časové uzly: [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md); [Prodloužení lhůt v souvislosti s těhotenstvím a péčí o dítě jako alternativa k přerušení (odst. 1)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Zánik postavení studenta (odst. 2)](02-studium-studenti.md); [Prekluzivní lhůta jednoho roku a její běh](02-studium-studenti.md); [Přerušení lhůty a stavění lhůty](02-studium-studenti.md); [Zahájení z moci úřední a prekluzivní lhůty (odst. 3–4)](02-studium-studenti.md); [Lhůta pro vydání rozhodnutí (odst. 1)](02-studium-studenti.md).
@@ -36,7 +36,7 @@ Další časové signály v kapitolách:
 - Porovnejte předchozí a nové znění po jednotlivých znacích normy; historický důvod nesmí nahradit přechodné ustanovení.
 - U každého závěru zaznamenejte datum, od něhož je použitelný, a událost vyžadující aktualizaci.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md); [Prodloužení lhůt v souvislosti s těhotenstvím a péčí o dítě jako alternativa k přerušení (odst. 1)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Zánik postavení studenta (odst. 2)](02-studium-studenti.md); [Prekluzivní lhůta jednoho roku a její běh](02-studium-studenti.md); [Přerušení lhůty a stavění lhůty](02-studium-studenti.md); [Zahájení z moci úřední a prekluzivní lhůty (odst. 3–4)](02-studium-studenti.md); [Lhůta pro vydání rozhodnutí (odst. 1)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md); [Prodloužení lhůt v souvislosti s těhotenstvím a péčí o dítě jako alternativa k přerušení (odst. 1)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Zánik postavení studenta (odst. 2)](02-studium-studenti.md); [Prekluzivní lhůta jednoho roku a její běh](02-studium-studenti.md); [Přerušení lhůty a stavění lhůty](02-studium-studenti.md); [Zahájení z moci úřední a prekluzivní lhůty (odst. 3–4)](02-studium-studenti.md); [Lhůta pro vydání rozhodnutí (odst. 1)](02-studium-studenti.md)
 
 ## 2. Účel, chráněné hodnoty a právní zásady
 
@@ -70,7 +70,7 @@ Reprezentativní místní formulace:
 - Při střetu zásad popište intenzitu zásahu, dostupné šetrnější řešení a důvod priority v konkrétním případě.
 - Účel ani zásada nesmějí vytvořit povinnost nebo výjimku, pro kterou místní text neposkytuje oporu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md); [Kontinuita doby studia pro účely poplatků, stipendií a maximálních dob (odst. 7)](02-studium-studenti.md); [Zveřejnění, splatnost a účelovost (odst. 5–6)](02-studium-studenti.md); [Bezpečnost a ochrana zdraví při praktické výuce (odst. 2)](02-studium-studenti.md); [Zásady individualizace sankce a omezení pro vyloučení (odst. 3)](02-studium-studenti.md); [Ochrana dřívějších úkonů dotčené osoby (odst. 2)](02-studium-studenti.md); [Účel — transparentnost habilitačních a jmenovacích řízení](02-studium-studenti.md); [Evidované údaje a ochrana osobních údajů (odst. 4–6)](02-studium-studenti.md); [Řízení o akreditaci studijního programu — dispoziční zásada](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [Kontinuita doby studia pro účely poplatků, stipendií a maximálních dob (odst. 7)](02-studium-studenti.md); [Zveřejnění, splatnost a účelovost (odst. 5–6)](02-studium-studenti.md); [Bezpečnost a ochrana zdraví při praktické výuce (odst. 2)](02-studium-studenti.md); [Zásady individualizace sankce a omezení pro vyloučení (odst. 3)](02-studium-studenti.md); [Ochrana dřívějších úkonů dotčené osoby (odst. 2)](02-studium-studenti.md); [Účel — transparentnost habilitačních a jmenovacích řízení](02-studium-studenti.md); [Evidované údaje a ochrana osobních údajů (odst. 4–6)](02-studium-studenti.md); [Řízení o akreditaci studijního programu — dispoziční zásada](02-studium-studenti.md)
 
 ## 3. Působnost, adresáti, výluky a výjimky
 
@@ -89,7 +89,7 @@ Výsledná odpověď musí kumulativně určit věcný, osobní, územní a čas
 - Výjimku vykládejte podle jejího textu a účelu; nerozšiřujte ji jen podobností případu.
 - Ověřte, zda zvláštní osobní nebo územní pravidlo nemění obecnou působnost předpisu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [§ 1 — Úvodní ustanovení](01-obecna-samosprava.md); [§ 43 — Působnost ministerstva](01-obecna-samosprava.md); [Zahájení řízení a jeho účastníci (odst. 1)](02-studium-studenti.md); [Účastenství a omezení procesních práv (odst. 2)](02-studium-studenti.md); [Věcný rozsah — na která řízení § 69a dopadá](02-studium-studenti.md); [Předmět ověřování a zahájení řízení (odst. 1–2)](02-studium-studenti.md); [Předmět řízení a předpoklad předchozího jmenování docentem (odst. 1)](02-studium-studenti.md); [Účastenství pouze dotčené osoby (odst. 4)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 1 — Úvodní ustanovení](01-obecna-samosprava.md); [§ 43 — Působnost ministerstva](01-obecna-samosprava.md); [Zahájení řízení a jeho účastníci (odst. 1)](02-studium-studenti.md); [Účastenství a omezení procesních práv (odst. 2)](02-studium-studenti.md); [Věcný rozsah — na která řízení § 69a dopadá](02-studium-studenti.md); [Předmět ověřování a zahájení řízení (odst. 1–2)](02-studium-studenti.md); [Předmět řízení a předpoklad předchozího jmenování docentem (odst. 1)](02-studium-studenti.md); [Účastenství pouze dotčené osoby (odst. 4)](02-studium-studenti.md)
 
 ## 4. Pojmy, statusy, klasifikace a znaky normy
 
@@ -108,7 +108,7 @@ Každá kvalifikace musí propojit definiční znaky s právním následkem; pou
 - Stejný výraz z jiného předpisu nepřebírejte automaticky; ověřte jeho funkci v systematice komentovaného předpisu.
 - Ke každému pojmu připojte právní následek zařazení i nezařazení.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Odlišné podmínky pro vybrané kategorie uchazečů (odst. 2–3)](02-studium-studenti.md); [Legální definice disciplinárního přestupku](02-studium-studenti.md); [Pojem akademického pracovníka — taxativní výčet a dvojí povaha činnosti](02-studium-studenti.md); [Pojem uměleckého výstupu (odst. 2)](02-studium-studenti.md); [Kvalifikovaná většina pro statut (odst. 3)](02-studium-studenti.md); [Účelovost prostředků a účetní status (odst. 4 až 6)](02-studium-studenti.md); [§ 90b — Registr řízení o žádostech o uznání zahraničního vysokoškolského vzdělání a kvalifikace](03-pracovnici-soukrome-zaverecna.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Odlišné podmínky pro vybrané kategorie uchazečů (odst. 2–3)](02-studium-studenti.md); [Legální definice disciplinárního přestupku](02-studium-studenti.md); [Pojem akademického pracovníka — taxativní výčet a dvojí povaha činnosti](02-studium-studenti.md); [Pojem uměleckého výstupu (odst. 2)](02-studium-studenti.md); [Kvalifikovaná většina pro statut (odst. 3)](02-studium-studenti.md); [Účelovost prostředků a účetní status (odst. 4 až 6)](02-studium-studenti.md); [§ 90b — Registr řízení o žádostech o uznání zahraničního vysokoškolského vzdělání a kvalifikace](03-pracovnici-soukrome-zaverecna.md)
 
 ## 5. Povinnosti, zákazy, dovolení, oprávnění a kompetence
 
@@ -138,7 +138,7 @@ Reprezentativní místní normativní věty:
 - U diskrece určete účel, zákonné meze, povinná hlediska, požadavky odůvodnění a způsob přezkumu.
 - Domněnku, fikci a přímý právní účinek klasifikujte podle jejich následku, nikoli jen podle slovesa použitého v textu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
 ## 6. Procesní sled, příslušnost, forma a lhůty
 
@@ -154,7 +154,7 @@ Místně zachycené časové a pořadové body:
 - Oddělte hmotněprávní lhůtu, procesní lhůtu a pořádkový časový požadavek.
 - U rozhodnutí vždy určete pravomoc, věcnou a místní příslušnost, náležitosti odůvodnění a dostupný prostředek ochrany.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Kapitola 1 — Obecná ustanovení, veřejná vysoká škola a její samospráva (§ 1–47g)](01-obecna-samosprava.md); [§ 47c — Řízení na veřejné vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47f — Řízení na soukromé vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47g — Řízení na státní vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 50 — Přijímací řízení](02-studium-studenti.md); [Zahájení řízení a jeho účastníci (odst. 1)](02-studium-studenti.md); [Rozhodovací pravomoc (odst. 2–3)](02-studium-studenti.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Kapitola 1 — Obecná ustanovení, veřejná vysoká škola a její samospráva (§ 1–47g)](01-obecna-samosprava.md); [§ 47c — Řízení na veřejné vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47f — Řízení na soukromé vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47g — Řízení na státní vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 50 — Přijímací řízení](02-studium-studenti.md); [Zahájení řízení a jeho účastníci (odst. 1)](02-studium-studenti.md); [Rozhodovací pravomoc (odst. 2–3)](02-studium-studenti.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md)
 
 ## 7. Rozhodné skutečnosti, dokazování a riziko nejistoty
 
@@ -172,7 +172,7 @@ Reprezentativní místní formulace:
 - Právní argument nenahrazuje skutkové zjištění a obtížnost dokazování sama nevytváří zákonnou domněnku.
 - U odborné otázky určete, co má zjistit znalec a které právní hodnocení musí zůstat rozhodujícímu orgánu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Prokazování zahraničního vzdělání (odst. 4–8)](02-studium-studenti.md); [Diplom a dodatek k diplomu jako doklady o řádném ukončení](02-studium-studenti.md); [§ 57 — Doklady o studiu](02-studium-studenti.md); [Katalog dokladů o studiu (odst. 1) a jejich funkce (odst. 2–6)](02-studium-studenti.md); [Rodné číslo v dokladech (odst. 8)](02-studium-studenti.md); [Vydání nového dokladu při změně identifikačních údajů (odst. 2)](02-studium-studenti.md); [Evidence pracovní doby (odst. 4)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Prokazování zahraničního vzdělání (odst. 4–8)](02-studium-studenti.md); [Diplom a dodatek k diplomu jako doklady o řádném ukončení](02-studium-studenti.md); [§ 57 — Doklady o studiu](02-studium-studenti.md); [Katalog dokladů o studiu (odst. 1) a jejich funkce (odst. 2–6)](02-studium-studenti.md); [Rodné číslo v dokladech (odst. 8)](02-studium-studenti.md); [Vydání nového dokladu při změně identifikačních údajů (odst. 2)](02-studium-studenti.md); [Evidence pracovní doby (odst. 4)](02-studium-studenti.md)
 
 ## 8. Právní následky, odpovědnost, sankce a ochrana
 
@@ -191,7 +191,7 @@ Reprezentativní normativní vazby porušení a následku:
 - Prověřte souběh, subsidiaritu a vzájemné vyloučení jednotlivých prostředků ochrany.
 - Uveďte nejen maximální sankci, ale i podmínky individualizace, nápravy, moderace a přezkumu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 47c — Řízení na veřejné vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47f — Řízení na soukromé vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47g — Řízení na státní vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 54b — Přestup mezi studijními programy vysoké školy](02-studium-studenti.md); [Řízení o žádosti o povolení přestupu (odst. 2)](02-studium-studenti.md); [Právní důsledky povolení přestupu: uznání studia a zařazení do ročníku (odst. 3)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Procesní záruky u sankčního vyloučení (odst. 3)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 47c — Řízení na veřejné vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47f — Řízení na soukromé vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 47g — Řízení na státní vysoké škole o vyslovení neplatnosti vykonání státní zkoušky nebo její části](01-obecna-samosprava.md); [§ 54b — Přestup mezi studijními programy vysoké školy](02-studium-studenti.md); [Řízení o žádosti o povolení přestupu (odst. 2)](02-studium-studenti.md); [Právní důsledky povolení přestupu: uznání studia a zařazení do ročníku (odst. 3)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Procesní záruky u sankčního vyloučení (odst. 3)](02-studium-studenti.md)
 
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
@@ -205,7 +205,7 @@ Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorn
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -228,7 +228,7 @@ Místní kapitoly výslovně zachycují například tyto právní otázky, námi
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [kapitola s místními spornými otázkami](01-obecna-samosprava.md); [místní zásady a judikatorní teze](ZASADY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [kapitola s místními spornými otázkami](01-obecna-samosprava.md); [místní zásady a judikatorní teze](ZASADY.md)
 
 ## 11. Systematické, ústavní, evropské a kolizní vazby
 
@@ -241,7 +241,7 @@ Další místní uzly systematiky: [Zavinění a vztah k trestněprávní a pře
 - Prověřte ústavní limit a případný konflikt základních práv před použitím čistě jazykového závěru.
 - Vazbu uzavřete praktickým pravidlem, který předpis se použije první a co zůstává podpůrné.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [Zavinění a vztah k trestněprávní a přestupkové odpovědnosti](02-studium-studenti.md); [Vztah k § 65 odst. 1 písm. c)](02-studium-studenti.md); [Vztah ke správnímu řádu](02-studium-studenti.md); [Volná pracovní doba u tvůrčí a související činnosti (odst. 3)](02-studium-studenti.md); [Vztah k pracovnímu poměru a k výkonu jiné výdělečné činnosti](02-studium-studenti.md); [§ 77b — Zajišťování kvality vzdělávací, tvůrčí a s nimi souvisejících činností a vnitřní hodnocení kvality vzdělávací, tvůrčí a s nimi souvisejících činností vysoké školy](02-studium-studenti.md); [Využití vnitřního hodnocení a hodnocení mezinárodními agenturami (odst. 3)](02-studium-studenti.md); [§ 93j — Vztah k vymezení soustavné přípravy na budoucí povolání podle zvláštních předpisů o státní sociální podpoře a důchodovém pojištění](03-pracovnici-soukrome-zaverecna.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md); [Prodloužení lhůt v souvislosti s těhotenstvím a péčí o dítě jako alternativa k přerušení (odst. 1)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Zánik postavení studenta (odst. 2)](02-studium-studenti.md); [Prekluzivní lhůta jednoho roku a její běh](02-studium-studenti.md); [Přerušení lhůty a stavění lhůty](02-studium-studenti.md); [Zahájení z moci úřední a prekluzivní lhůty (odst. 3–4)](02-studium-studenti.md); [Lhůta pro vydání rozhodnutí (odst. 1)](02-studium-studenti.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [Zavinění a vztah k trestněprávní a přestupkové odpovědnosti](02-studium-studenti.md); [Vztah k § 65 odst. 1 písm. c)](02-studium-studenti.md); [Vztah ke správnímu řádu](02-studium-studenti.md); [Volná pracovní doba u tvůrčí a související činnosti (odst. 3)](02-studium-studenti.md); [Vztah k pracovnímu poměru a k výkonu jiné výdělečné činnosti](02-studium-studenti.md); [§ 77b — Zajišťování kvality vzdělávací, tvůrčí a s nimi souvisejících činností a vnitřní hodnocení kvality vzdělávací, tvůrčí a s nimi souvisejících činností vysoké školy](02-studium-studenti.md); [Využití vnitřního hodnocení a hodnocení mezinárodními agenturami (odst. 3)](02-studium-studenti.md); [§ 93j — Vztah k vymezení soustavné přípravy na budoucí povolání podle zvláštních předpisů o státní sociální podpoře a důchodovém pojištění](03-pracovnici-soukrome-zaverecna.md); [Lhůta pro rozhodnutí a procesní odchylky od správního řádu (odst. 4–5)](02-studium-studenti.md); [Prodloužení lhůt v souvislosti s těhotenstvím a péčí o dítě jako alternativa k přerušení (odst. 1)](02-studium-studenti.md); [Okamžik účinnosti přestupu a zánik postavení studenta počátečního programu (odst. 6)](02-studium-studenti.md); [Zánik postavení studenta (odst. 2)](02-studium-studenti.md); [Prekluzivní lhůta jednoho roku a její běh](02-studium-studenti.md); [Přerušení lhůty a stavění lhůty](02-studium-studenti.md); [Zahájení z moci úřední a prekluzivní lhůty (odst. 3–4)](02-studium-studenti.md); [Lhůta pro vydání rozhodnutí (odst. 1)](02-studium-studenti.md)
 
 ## 12. Přezkoumatelná aplikace a úplná subsumpce
 
@@ -259,7 +259,7 @@ Aplikační vrstvu lze ověřit zejména v:
 - Variantu vytvořte změnou jediné rozhodné skutečnosti; tím se ukáže, který znak skutečně nese výsledek.
 - Uzavřete procesním krokem, prostředkem ochrany, důsledkem pro adresáta a zbytkovou nejistotou.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní aplikační kapitola](00-uvod.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní aplikační kapitola](00-uvod.md)
 
 ## 13. Stav poznání, kapitolová úplnost a aktualizační spouštěče
 
@@ -300,7 +300,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy, návazné předpisy a modelové příklady.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
 ## Autorský protokol pro každé komentované ustanovení
 

@@ -1,8 +1,10 @@
 # Komentář k zákonu č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách)
 
-> **Konsolidované znění k 1. lednu 2026.** Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze. Konkrétní spisové značky judikatury nejsou vymýšleny — v době vzniku tohoto úvodu složka [judikatura/](judikatura/) v repozitáři neobsahuje strojově doplněné karty rozhodnutí (viz Poznámka k metodě níže).
+> Konsolidované znění k 1. lednu 2026. Komentář je zpracován výhradně z lokálních materiálů; nevyužívá živé komerční právní databáze. Konkrétní spisové značky judikatury nejsou vymýšleny.
 
-Kód konsolidovaného dokumentu e-Sbírky (frontmatter pole `code` v místním zdrojovém souboru e-Sbírky): `SB-1998-00111_2026-01-01`.
+Kód konsolidovaného dokumentu e-Sbírky (frontmatter pole code v místním zdrojovém souboru e-Sbírky): SB-1998-00111_2026-01-01.
+
+V době vzniku tohoto úvodu složka judikatura v repozitáři neobsahuje strojově doplněné karty rozhodnutí (viz Poznámka k metodě níže).
 
 ---
 
